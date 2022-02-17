@@ -1,0 +1,10 @@
+﻿to develop an algorithm that
+reads in three numbers and writes them all in sorted order
+
+
+Let 3 number  be =p
+let highest number >a
+Let value of p if value>a=a
+Let value of p if value p<a=b
+Let value of p if  not >a or <b=c
+ Set p=a,b,c
