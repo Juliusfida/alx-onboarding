@@ -1,0 +1,9 @@
+﻿a user will enter numbers that will be added to the sum and when a negative number is encountered, stop adding numbers and write out the final result
+ 
+sum=x
+Let ,a,b  =numbers
+x=a+b
+If  sum of positive numbers 
+Set x => 0 print x
+If sum is negative
+Set x=<0  prnt 0
